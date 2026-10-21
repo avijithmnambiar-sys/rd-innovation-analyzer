@@ -1,0 +1,9 @@
+institution_id,institution_name,country,institution_type,publications_count,citations_total,intl_collab_pct,primary_field,founded_year
+INST003,Example Technology Institute,Germany,University,200,2100,62.0,Engineering,1985
+INST004,Example Medical Research Centre,United Kingdom,Private Research Institute,95,1150,55.0,Medicine,2001
+INST005,Example Environmental Lab,Japan,Public Research Institute,70,600,42.0,Environmental Science,2010
+INST006,Example Robotics Centre,United States,University,150,1800,58.0,Robotics,2012
+INST007,Example Biotechnology Lab,India,Private Research Institute,60,480,30.0,Biology,2015
+INST008,Example Materials Institute,Germany,Government Laboratory,110,990,45.0,Engineering,1990
+INST009,Example AI Research Centre,Singapore,University,135,1620,52.0,Computer Science,2011
+INST002,Example Science Laboratory,India,Government Laboratory,80,720,48.0,Physics,1998
