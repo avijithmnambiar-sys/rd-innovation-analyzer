@@ -1,0 +1,13 @@
+patent_id,country,filing_year,technology_field,applicant_type,grants_count,citations,is_green_tech
+P0001,India,2021,Artificial Intelligence,Corporation,120,540,False
+P0002,India,2022,Clean Energy,University,45,310,True
+P0003,USA,2021,Semiconductors,Corporation,900,4200,False
+P0004,USA,2022,Biotechnology,University,300,2100,False
+P0005,China,2021,Telecommunications,Corporation,850,3100,False
+P0006,China,2022,Clean Energy,Corporation,610,2500,True
+P0007,Germany,2021,Materials Science,Government Lab,150,980,False
+P0008,Germany,2022,Clean Energy,Corporation,220,1300,True
+P0009,Japan,2021,Robotics,Corporation,430,2700,False
+P0010,Japan,2022,Medical Devices,University,95,640,False
+P0011,South Korea,2021,Semiconductors,Corporation,520,2300,False
+P0012,South Korea,2022,Artificial Intelligence,Individual,12,40,False
