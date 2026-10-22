@@ -11,3 +11,6 @@ P0009,Japan,2021,Robotics,Corporation,430,2700,False
 P0010,Japan,2022,Medical Devices,University,95,640,False
 P0011,South Korea,2021,Semiconductors,Corporation,520,2300,False
 P0012,South Korea,2022,Artificial Intelligence,Individual,12,40,False
+^P00[12],China,2026,Artificial Intelligence,University,0,0,False
+P0015,Australia,2023,Clean Energy,University,60,400,False
+P00016,USA,2026,Artificial Intelligence,Corporation,70,300,False

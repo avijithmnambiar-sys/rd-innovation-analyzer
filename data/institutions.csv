@@ -1,51 +1,9 @@
-institution_id,institution_name,country,institution_type,primary_field,publications_count,citations_total,founded_year,international_collaborators,intl_collab_pct
-INS001,Northstar Institute of Technology,India,University,Artificial Intelligence,1250,18400,1985,18,42
-INS002,Bluehaven Research University,United States,University,Biotechnology,980,22100,1968,25,55
-INS003,Silverpine National Laboratory,Germany,Government Lab,Renewable Energy,760,14300,1975,16,38
-INS004,Eastbridge Institute of Science,Japan,Research Institute,Robotics,1120,19800,1982,21,47
-INS005,Cedarfield Technical University,Canada,University,Materials Science,890,12600,1991,14,35
-INS006,Westmoor Innovation Centre,United Kingdom,Research Institute,Cybersecurity,540,8700,2001,12,31
-INS007,Suncrest Institute of Technology,India,University,Data Science,1380,20700,1998,20,44
-INS008,Redwood Biomedical Centre,United States,Research Institute,Medicine,1050,26700,1972,29,61
-INS009,Alpine Systems Laboratory,Switzerland,Government Lab,Quantum Computing,430,9900,1988,17,52
-INS010,Harborlight University,Australia,University,Marine Science,670,11800,1979,15,40
-INS011,Maple Ridge Research Institute,Canada,Research Institute,Climate Science,720,13200,1995,19,49
-INS012,Golden Lotus Technical Institute,Singapore,University,Semiconductors,960,17600,2003,23,58
-INS013,Stonegate Applied Sciences Centre,France,Research Institute,Aerospace,610,10400,1987,13,36
-INS014,Riverbend National University,Brazil,University,Agricultural Technology,830,9700,1970,11,29
-INS015,Cloudpeak Computing Laboratory,South Korea,Corporate Lab,Artificial Intelligence,1450,30200,2008,31,66
-INS016,Evergreen Energy Institute,Sweden,Research Institute,Renewable Energy,590,12100,1993,22,57
-INS017,Kingswell Medical University,United Kingdom,University,Medicine,1170,24800,1965,27,60
-INS018,Coral Bay Science Institute,New Zealand,Research Institute,Marine Science,380,6400,2005,10,33
-INS019,Ironwood Engineering University,Germany,University,Materials Science,920,15400,1980,18,43
-INS020,Brightwater Digital Lab,India,Corporate Lab,Cybersecurity,780,11300,2012,16,41
-INS021,Pinecrest Space Research Centre,United States,Government Lab,Aerospace,860,19200,1961,24,63
-INS022,Moonstone Institute of Technology,Japan,University,Robotics,1320,25700,1990,26,59
-INS023,Clearbrook Bioinnovation Centre,Netherlands,Research Institute,Biotechnology,640,14500,1999,20,51
-INS024,Highland Data Research Lab,Ireland,Corporate Lab,Data Science,510,8200,2015,9,28
-INS025,Meadowlark Agricultural University,India,University,Agricultural Technology,740,9100,1977,12,32
-INS026,Polar Star Climate Laboratory,Norway,Government Lab,Climate Science,690,16100,1984,21,56
-INS027,Lakeshore Quantum Institute,Canada,Research Institute,Quantum Computing,470,10800,2007,18,54
-INS028,Ashford Semiconductor Centre,Taiwan,Corporate Lab,Semiconductors,1240,23500,2000,28,64
-INS029,Crownfield Cyber Research Centre,Israel,Research Institute,Cybersecurity,810,17400,1996,22,53
-INS030,Windmere Institute of Technology,Denmark,University,Renewable Energy,620,12700,1989,17,46
-INS031,Orchid Valley Medical Centre,Singapore,Research Institute,Medicine,930,21400,2004,24,58
-INS032,Redcliff Aerospace University,France,University,Aerospace,770,13900,1974,16,42
-INS033,Brookstone AI Laboratory,United States,Corporate Lab,Artificial Intelligence,1580,34100,2010,34,70
-INS034,Seabrook Marine Research Centre,Portugal,Research Institute,Marine Science,420,7100,1992,13,37
-INS035,Cobalt Ridge Materials Lab,South Korea,Government Lab,Materials Science,680,12200,1986,15,45
-INS036,Fairview Robotics Institute,Switzerland,Research Institute,Robotics,990,20600,2006,25,62
-INS037,Willow Creek Biotechnology Centre,Australia,Research Institute,Biotechnology,560,11900,1997,18,48
-INS038,Summitline Computing University,India,University,Data Science,1080,16200,2002,19,39
-INS039,Eastwind Energy Laboratory,China,Government Lab,Renewable Energy,1160,22900,1981,27,61
-INS040,Westlake Quantum Research Centre,United Kingdom,Research Institute,Quantum Computing,520,13700,2011,20,57
-INS041,Briarwood Agricultural Science Lab,Brazil,Government Lab,Agricultural Technology,610,7800,1983,10,30
-INS042,Aurora Semiconductor Institute,Japan,Research Institute,Semiconductors,1010,19400,1994,23,55
-INS043,Granite Peak Security Lab,Germany,Corporate Lab,Cybersecurity,730,15100,2009,21,50
-INS044,Rosewood Climate University,Netherlands,University,Climate Science,880,18600,1976,18,52
-INS045,Silverstream Biomedical Laboratory,Sweden,Government Lab,Medicine,790,17300,1980,22,59
-INS046,Foxglove Space Technology Institute,India,Research Institute,Aerospace,650,11200,2005,14,34
-INS047,Blackwater Materials University,United States,University,Materials Science,1140,21300,1969,26,57
-INS048,Springvale Marine University,South Korea,University,Marine Science,490,8500,1998,12,36
-INS049,Elmstone Intelligent Systems Centre,Singapore,Corporate Lab,Artificial Intelligence,1360,28100,2013,30,68
-INS050,Kingsbridge Agricultural Research Institute,United Kingdom,Research Institute,Agricultural Technology,570,9200,1990,15,40
+institution_id,institution_name,country,institution_type,publications_count,citations_total,intl_collab_pct,primary_field,founded_year
+INST003,Example Technology Institute,Germany,University,200,2100,62.0,Engineering,1985
+INST004,Example Medical Research Centre,United Kingdom,Private Research Institute,95,1150,55.0,Medicine,2001
+INST005,Example Environmental Lab,Japan,Public Research Institute,70,600,42.0,Environmental Science,2010
+INST006,Example Robotics Centre,United States,University,150,1800,58.0,Robotics,2012
+INST007,Example Biotechnology Lab,India,Private Research Institute,60,480,30.0,Biology,2015
+INST008,Example Materials Institute,Germany,Government Laboratory,110,990,45.0,Engineering,1990
+INST009,Example AI Research Centre,Singapore,University,135,1620,52.0,Computer Science,2011
+INST002,Example Science Laboratory,India,Government Laboratory,80,720,48.0,Physics,1998

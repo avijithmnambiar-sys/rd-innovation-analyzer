@@ -1,0 +1,30 @@
+# Shared settings. Defining [theme.light] and [theme.dark] lets viewers switch
+# between them from the app menu (⋮ > Settings > Choose app theme).
+[theme]
+font = "sans serif"
+baseRadius = "medium"
+showWidgetBorder = true
+
+[theme.light]
+primaryColor = "#0F766E"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172B4D"
+borderColor = "#DCE4EE"
+dataframeHeaderBackgroundColor = "#EAF0F7"
+
+[theme.light.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F4F8"
+
+[theme.dark]
+primaryColor = "#2BB3A6"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#E2E8F0"
+borderColor = "#334155"
+dataframeHeaderBackgroundColor = "#1E293B"
+
+[theme.dark.sidebar]
+backgroundColor = "#131D33"
+secondaryBackgroundColor = "#1E293B"
